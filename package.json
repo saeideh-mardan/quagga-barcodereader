@@ -1,0 +1,22 @@
+{
+  "name": "quagga-barcodereader",
+  "version": "1.0.0",
+  "description": "Testing how to work with this open source plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeideh-mardan/quagga-barcodereader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saeideh-mardan/quagga-barcodereader/issues"
+  },
+  "homepage": "https://github.com/saeideh-mardan/quagga-barcodereader#readme",
+  "dependencies": {
+    "quagga": "^0.12.1"
+  }
+}
